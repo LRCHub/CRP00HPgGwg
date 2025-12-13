@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "血流",
+  "base_artist": "yama",
+  "createdAt": "2025-12-13T14:26:03.394000Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "血流",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/01_血流_yama.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "血流 - Blood Flow",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/02_血流_-_Blood_Flow_yama.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "血流",
+      "artist": "yama",
+      "has_synced": false,
+      "path": "select/pl_01_血流_yama.txt"
+    }
+  ]
+}
